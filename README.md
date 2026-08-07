@@ -9,6 +9,7 @@
 - **Face1** (geometry)
 - **Face2** (geometry)
 - **Shapetomove** (geometry)
+- **edge** (geometry)
 
 
 
